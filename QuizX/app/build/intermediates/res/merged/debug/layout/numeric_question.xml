@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <TextView android:id="@+id/textView1"
+              android:layout_width="wrap_content"
+              android:textAppearance="?android:attr/textAppearanceLarge"
+              android:layout_height="wrap_content"
+              android:text="@string/maths_question_title"></TextView>
+    <EditText android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/maths_question_text"></EditText>
+    <EditText android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:inputType="numberSigned"
+              android:id="@+id/maths_answer_text">
+        <requestFocus></requestFocus>
+    </EditText>
+    <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/maths_answer_button"
+            android:text="@string/maths_answer_text"></Button>
+    <TextView android:layout_height="wrap_content"
+              android:text="TextView"
+              android:layout_width="wrap_content"
+              android:id="@+id/maths_summary"></TextView>
+</LinearLayout>
+<!-- From: file:/C:/Users/Teymoor/Desktop/android-quiz-master/QuizX/app/src/main/res/layout/numeric_question.xml -->

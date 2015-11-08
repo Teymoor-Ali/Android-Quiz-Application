@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Teymoor\Desktop\android-quiz-master\QuizX\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-081d4d4029289b69b80e7d1b68b10ef0da82eff1.jar" />
+    </item>
+
+</items>
