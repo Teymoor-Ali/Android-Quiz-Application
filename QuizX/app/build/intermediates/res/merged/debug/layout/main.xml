@@ -29,4 +29,4 @@
           android:id="@+id/overall_summary"
           android:text="@string/overall_summary"></TextView>
 </LinearLayout>
-<!-- From: file:/F:/Android%20Quiz%20porjects/XML-SQLite-Quiz-Demo-master/QuizX/app/src/main/res/layout/main.xml -->
+<!-- From: file:/C:/Users/Teymoor/Documents/GitHub/Android-Quiz-Application/QuizX/app/src/main/res/layout/main.xml -->
