@@ -23,6 +23,9 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".MultiChoiceQuestionsActivity"
+            ></activity>
+        <activity
             android:name=".NumericQuestion"
             ></activity>
    </application>

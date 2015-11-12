@@ -23,6 +23,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="uk.ac.hw.macs.pjbk.quizx.MultiChoiceQuestionsActivity" />
         <activity android:name="uk.ac.hw.macs.pjbk.quizx.NumericQuestion" />
     </application>
 

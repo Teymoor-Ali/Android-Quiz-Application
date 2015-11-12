@@ -4,6 +4,7 @@ package uk.ac.hw.macs.pjbk.quizx;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.sax.StartElementListener;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -52,6 +53,7 @@ implements OnClickListener{
         if ( arg0 == historyButton ) {
             Log.i("QUIZ", "History selected");
             Toast.makeText(getApplicationContext(), "History button pressed", Toast.LENGTH_LONG).show();
+            startActivity(new Intent(this, uk.ac.hw.macs.pjbk.quizx.MultiChoiceQuestionsActivity.class));
         }
         if ( arg0 == mathsButton ) {
             Log.i("QUIZ", "Maths selected");
