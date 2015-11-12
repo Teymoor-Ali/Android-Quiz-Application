@@ -27,4 +27,4 @@
               android:layout_width="wrap_content"
               android:id="@+id/maths_summary"></TextView>
 </LinearLayout>
-<!-- From: file:/C:/Users/Teymoor/Desktop/android-quiz-master/QuizX/app/src/main/res/layout/numeric_question.xml -->
+<!-- From: file:/F:/Android%20Quiz%20porjects/XML-SQLite-Quiz-Demo-master/QuizX/app/src/main/res/layout/numeric_question.xml -->
